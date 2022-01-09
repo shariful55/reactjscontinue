@@ -1,0 +1,14 @@
+.headingStyle{
+    background-color:purple;
+    color:white;
+    padding:15px;
+    font-size:20px;
+    text-align:center;
+    font-weight:bold;
+
+}
+
+.largeText{
+    font-size:4rem;
+    
+}
